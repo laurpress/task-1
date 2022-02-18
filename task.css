@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Fleur+De+Leah&family=Indie+Flower&display=swap');
+
+body  {
+    background-color: rgb(155, 210, 214);
+} 
+
+.heading {
+    text-align: center;
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+
+.ingredients {
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 90px;
+    padding-bottom: 30px;
+    color: gray;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+img {
+    border-radius: 50%;
+    width: 40%;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    margin-bottom: 60px;
+}
+.ingredients-table {
+    border: 1px solid black;
+    margin-left: 17rem;
+}
+
+.instructions {
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+    color: gray;
+    font-family: monospace;
+}
+
+.instructions ol {
+    margin: 0 auto;
+    width: 75%;
+    border: 3px solid brown;
+    border-style: ridge;
+    
+}
+
+
+
+.footer {
+    color: brown;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 2rem;
+    text-align: center;
+}
